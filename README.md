@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AAES-chawit
 - 👀 I’m interested in Public Clouds, Automation, and Powershell
-- 🌱 I’m currently learning Azure
+- 🌱 I’m currently learning Azure, AWS, and Terraform
 - 💞️ I’m looking to collaborate on $Things
 - 📫 How to reach me https://linktr.ee/charleswitherspoon 
 
